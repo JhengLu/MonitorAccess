@@ -8,7 +8,7 @@
 How to run?
 
 ```
-cd MonitorAccess
+cd /MonitorAccess
 mkdir build
 cd build
 sudo apt install cmake
