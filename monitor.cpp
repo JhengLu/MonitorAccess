@@ -1043,7 +1043,7 @@ int main (int argc, char *argv[]) {
     //monitor.measure_page_temp(cores_g);
 
     //monitor.measure_process_latency("memtier_benchmark");
-    //monitor.measure_process_latency("redis-server");
+     monitor.measure_process_latency("redis-server");
     //monitor.measure_process_latency("bc");
     //monitor.measure_process_latency("memcached");
 
