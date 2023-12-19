@@ -15,3 +15,14 @@ sudo apt install cmake
 cmake ..
 make
 ```
+How to measure different applications?
+```
+# change the name of application here
+monitor.measure_process_latency("redis-server");
+```
+How to measure different processes?
+
+```
+# change the pid here
+monitor.measure_process_latency(pid);
+```
