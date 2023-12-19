@@ -3,7 +3,7 @@
 <p>Memchached: </p>
 <img alt="image" src="Figures/memcached.png">
 <p>Redis: </p>
-<img width="429" alt="image" src="Figures/redis.png">
+<img alt="image" src="Figures/redis.png">
 
 How to run?
 
