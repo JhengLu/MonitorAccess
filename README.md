@@ -1,9 +1,9 @@
 # Monitor Access Latency
 <p>This code can be used for calculating the access latency</p>
 <p>Memchached: </p>
-<img alt="image" src="Figures/memcached.png">
+<img alt="image" src="Figures/memcached.png" style="width: 300px; height: 200px;">
 <p>Redis: </p>
-<img alt="image" src="Figures/redis.png">
+<img alt="image" src="Figures/redis.png" style="width: 300px; height: 200px;">
 
 How to run?
 
